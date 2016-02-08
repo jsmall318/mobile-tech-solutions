@@ -1,0 +1,21 @@
+BODY 
+{
+	padding-top: 70px;
+	background-image: url('http://localhost/mobile-tech-solutions/images/wood.jpg');
+	background-repeat: repeat;
+/* 	background-color: #737373; */
+	color:white;
+}
+
+#rotating-item-wrapper 
+{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rotating-item 
+{
+    display: none;
+    position: absolute;
+}
